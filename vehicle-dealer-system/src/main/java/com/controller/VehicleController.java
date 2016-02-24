@@ -15,8 +15,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.inventory.VehicleInventory;
-import com.model.Report;
-import com.model.ReportList;
 import com.model.Vehicle;
 import com.model.VehicleList;
 
